@@ -1,0 +1,22 @@
+{
+  "name": "cheat-kit",
+  "version": "0.0.1",
+  "description": "A npm package with commant to easily use web-dev boilerplate ",
+  "main": "index.js",
+  "scripts": {
+    "test": "oui"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duariom/cheat-kit.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Luc Moiraud",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/duariom/cheat-kit/issues"
+  },
+  "homepage": "https://github.com/duariom/cheat-kit#readme"
+}
